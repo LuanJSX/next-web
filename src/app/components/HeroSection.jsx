@@ -25,7 +25,7 @@ const HeroSection = () => {
                 // Same substring at the start will only be typed out once, initially
                 "Luan",
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
-                "Front-end",
+                "Desenvolvedor Full Stack",
                 1000,
                 "Web development",
                 1000,
@@ -60,7 +60,7 @@ const HeroSection = () => {
             </a>
 
             <button className="px-1 mr-1 py-1 sm:w-fit w-full rounded-full bg-gradient-to-br from-[#4C89F9 hover:bg-slate-800 text-white border border-[#4C89F9] mt-3">
-              <a href="https://drive.google.com/file/d/1I2oCFY5Hw23iLVb1oMxstxpYx61aIfoJ/view?usp=drive_link"
+              <a href="https://drive.google.com/file/d/1ETEvM9ljtHdY1zgNfZcpiXsEJGNyyD90/view?usp=sharing"
               target="_blank" className="block mr-3 bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                 Download CV
               </a>
