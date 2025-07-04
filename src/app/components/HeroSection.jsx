@@ -60,7 +60,7 @@ const HeroSection = () => {
             </a>
 
             <button className="px-1 mr-1 py-1 sm:w-fit w-full rounded-full bg-gradient-to-br from-[#4C89F9 hover:bg-slate-800 text-white border border-[#4C89F9] mt-3">
-              <a href="https://drive.google.com/file/d/1yEpYAtg4ia74Ehmb6C4yLgwweUoRHxoO/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1YBH4uWLWj7Oho7zwASUawi9HyLpXMhPG/view?usp=sharing"
               target="_blank" className="block mr-3 bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                 Download CV
               </a>
