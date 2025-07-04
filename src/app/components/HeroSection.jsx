@@ -44,7 +44,7 @@ const HeroSection = () => {
           </p>
           <div>
             <a
-              href="https://github.com/luanpa"
+              href="https://github.com/LuanJSX?tab=repositories"
               target="_blank"
               className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-[#4C89F9] hover:bg-slate-200 text-white"
             >
